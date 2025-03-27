@@ -10,3 +10,5 @@
 ### - ✅ Functional audio player.
 ### - ✅ Database connection with MongoDB.
 ### - ✅ API built with Express.js to manage data.
+
+#### This project was only possible with the help of the Hashtag Treinamentos channel (where I learned a lot about what it really means to be a fullstack)
