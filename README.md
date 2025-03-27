@@ -1,8 +1,12 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# 🎵 Spotify Clone - Full Stack
+### This project is a simple replica of Spotify, developed during the Hashtag Treinamentos course. The goal was to practice full-stack development, implementing essential features of a music streaming platform.
+# 🚀 Technologies Used
+### - Front-end: React, Vite, HTML, CSS, JavaScript
+### - Back-end: Node.js, Express.js, MongoDB
+### - Version Control: Git and GitHub
+# 🎧 Features
+### - ✅ Spotify-inspired interface.
+### - ✅ Playlist and music listing.
+### - ✅ Functional audio player.
+### - ✅ Database connection with MongoDB.
+### - ✅ API built with Express.js to manage data.
